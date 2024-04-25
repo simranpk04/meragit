@@ -1,4 +1,5 @@
 # meragit
 this is my first git repository
 <br>
-teragit
+teragit(tu rakh)
+
